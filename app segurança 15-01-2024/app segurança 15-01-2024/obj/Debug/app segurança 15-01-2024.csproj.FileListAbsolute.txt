@@ -1,0 +1,16 @@
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\bin\Debug\app segurança 15-01-2024.exe.config
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\bin\Debug\app segurança 15-01-2024.exe
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\bin\Debug\app segurança 15-01-2024.pdb
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app segurança 15-01-2024.csproj.AssemblyReference.cache
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.login.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.Properties.Resources.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app segurança 15-01-2024.csproj.GenerateResource.cache
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app segurança 15-01-2024.csproj.CoreCompileInputs.cache
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app segurança 15-01-2024.exe
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app segurança 15-01-2024.pdb
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.formMenu.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.principal.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.pesquisar.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.cadastro.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.atualizar.resources
+C:\Users\cris e preto\Desktop\maycon\app segurança 15-01-2024\app segurança 15-01-2024\obj\Debug\app_segurança_15_01_2024.Gerenciador.resources
